@@ -155,6 +155,4 @@ def main():
             plot_correlation_matrix(example_df)
             st.write('---')
 
-# Run main function
-if _name_ == '_main_':
-    main()
+
